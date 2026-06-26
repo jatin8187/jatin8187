@@ -137,6 +137,5 @@ I'm actively seeking:
 - 📧 **Email:** [jatin818781@gmail.com](mailto:jatin818781@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/jatin-r-27116b2ba](https://www.linkedin.com/in/jatin-r-27116b2ba/)
 - 🐙 **GitHub:** [github.com/jatin8187](https://github.com/jatin8187)
-- 📱 **Phone:** +91 7908288481
 
 **⭐ Feel free to explore my repositories and reach out. Let's build something great together!**
